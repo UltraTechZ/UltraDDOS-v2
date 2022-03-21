@@ -1,6 +1,6 @@
 # Ultra DDOS v2
 This is the second version of a Python-based DDOS tool made by UltraTechZ. The GUI was coded by WalesWorksLtd.
-Tool is highly suggested to attack Russia! GloryToUkraine!
+Tool is highly suggested to attack Russia, GloryToUkraine
 
 # Compatibility
 This software is available on Windows 7/8/10/11 as an executable, and on other operating systems as a Python file.
