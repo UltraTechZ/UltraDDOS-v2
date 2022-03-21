@@ -11,3 +11,5 @@ Once you start the program and acknowledge the welcome screen, you should see th
 The "DDOS Attack" button will start a series of input boxes asking for the target, port, etc. After selecting, the attack will start, and it will not end until all the set number of packets have been sent. The attack looks somewhat like this:
 
 <img width="335" alt="Screenshot 2022-03-21 at 6 51 58 PM" src="https://user-images.githubusercontent.com/87256750/159246944-28660ebf-dc82-4756-80b3-0e24d3e186f4.png">
+
+A window that says all packets are sent may pop up before the attack text stops. You can ignore the window.
