@@ -6,7 +6,7 @@ Tool is highly suggested to attack Russia, GloryToUkraine
 This software is available on Windows 7/8/10/11 as an executable, and on other operating systems as a Python file.
 
 # How to Install
-All you need to do is download the files of the program and keep them in the same folder. You can name the folder whatever you like.
+All you need to do is download the files of the program and keep them in the same folder. You can name the folder whatever you like. **Please note that file names must never be changed.**
 
 # How to Use
 Once you start the program and acknowledge the welcome screen, you should see this interface:
