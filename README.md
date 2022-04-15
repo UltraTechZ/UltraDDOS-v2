@@ -8,7 +8,7 @@ This software is available on Windows 7/8/10/11 as an executable, and on other o
 # How to Install
 All you need to do is download the files of the program and keep them in the same folder. You can name the folder whatever you like. **Please note that file names must never be changed.**
 
-# How to Use
+# How to Use (GUI version)
 Once you start the program and acknowledge the welcome screen, you should see this interface:
 <img width="688" alt="Screenshot 2022-03-21 at 6 49 21 PM" src="https://user-images.githubusercontent.com/87256750/159246596-f236f6fd-c684-4d2b-8e3d-83e2094cc057.png">
 
