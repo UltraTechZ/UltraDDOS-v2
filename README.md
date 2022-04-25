@@ -24,3 +24,5 @@ First do ```pip install requests```
 Then, open the Python File and enter the information
 
 Enjoy!
+
+**Plase give us feedback if you have any issues**
