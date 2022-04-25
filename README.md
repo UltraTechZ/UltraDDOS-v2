@@ -18,7 +18,7 @@ The "DDOS Attack" button will start a series of input boxes asking for the targe
 
 A window that says all packets are sent may pop up before the attack text stops. You can ignore the window.
 
-#How to use (Python version)
+# How to use (Python version)
 First do ```pip install requests``` 
 
 Then, open the Python File and enter the information
