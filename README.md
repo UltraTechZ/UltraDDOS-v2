@@ -3,7 +3,7 @@ This is the second version of a Python-based DDOS tool made by UltraTechZ. The G
 The tool is highly suggested to be used in attacking Russia. #GloryToUkraine
 
 # Compatibility
-This software is available on Windows 7/8/10/11 as an executable, and on other operating systems as a Python file.
+This software is available on any operating system with Python installed.
 
 # How to Install
 All you need to do is download the files of the program and keep them in the same folder. You can name the folder whatever you like. **Please note that file names must never be changed.**
