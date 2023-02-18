@@ -1,5 +1,5 @@
 # Ultra DDOS v2
-This is the second version of a Python-based DDOS tool made by UltraTechZ. The GUI was coded by WalesWorksLtd.
+This is the second version of a Python-based DDOS tool made by UltraTechZ. The GUI was coded by @theroyalwhale.
 The tool is highly suggested to be used in attacking Russia. #GloryToUkraine
 
 # Compatibility
